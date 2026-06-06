@@ -16,6 +16,7 @@
 GCL 损失函数：
 $$ \mathcal{L}_{GCL} = -\sum_{y}(1+\gamma \hat{p}_y)p_y\log \hat{p}_y $$
 
+
 ## 代码
 
 ```python
